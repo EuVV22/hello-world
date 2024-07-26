@@ -6,5 +6,6 @@ First class assignment for Code Louisville.
 - I'm originally from Venezuela.
 - I'm 27 years old.
 - I'm passionate about coding, anytime I have the opportunity to develop any automatization I get a lot of fun out of the process.
+- I almost done with my first class in CODE:YOU in the path for software development.
 
 I hope I can get to participate in Code Louisville, I have some self-thought knowledge of programming and programming languages like Python, VBA, and Lua. I'm looking for a structured way of learning with a focused learning path and I want to get involved in the coding community of my new city.
